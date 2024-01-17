@@ -1,1 +1,1 @@
-To deploy a shiny website in this repo and access it at https://m-r-andersson.github.io/m-r-anderssson.github.io/, add all the content of the generated index folder to it.
+To deploy a shinylive website in this repo and access it at https://m-r-andersson.github.io/m-r-anderssson.github.io/, add all the content of the generated index folder to it.
